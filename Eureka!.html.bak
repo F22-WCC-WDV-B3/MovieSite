@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<link href="Eureka!_Styles.css" rel="stylesheet">
+	<head>
+		<title>Eureka!</title>
+		<link rel="icon" href="Images/Global_Dynamics.png" type="image/x-icon">
+		<meta charset="UTF-8">
+	</head>
+
+	<body id="Rapper">
+		<header>
+			<img src="Images/Eureka_Logo.png" class="FloatHead">
+			<nav>
+				<a href="Eureka!.html">Home</a>
+				<a href="Eureka_Cast.html">Cast</a>
+				<a href="Eureka_Episodes.html">Episodes</a>
+				<a href="Redacted.html">Ŗ̶̯̈̒̐̐e̶̲̜̞̱̾̎̈́͂d̵̫̦͓̈͜a̴̦̿͊̊ċ̷̝̆͝t̷͙͈̅͆͜͠ê̶̯̋̔͠d̷͕̞̎</a>
+			</nav> 
+		</header>
+		
+		<main>
+			<center><h1> Welcome To Eureka! </h1></center>
+			<center><h2>A show of a town thats full of the brightest minds in the world, from Physical to Theroetical, from Planetary to biological, Eureka has it! 
+			<br>
+			Though it seems like every day one of these nerds makes somthing that threatens eurekas survival. The only person keeping the disaster away?
+			<br>
+			Thats Jack Carter, a simple mined sherif surrounded by geniuses.</h2></center>
+		</main>
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		<footer id="FB">
+		Copyright &copy; 459 BC <br>
+		Thomas Dale Shirley
+		</footer>
+		
+	</body>
+
+</html>
