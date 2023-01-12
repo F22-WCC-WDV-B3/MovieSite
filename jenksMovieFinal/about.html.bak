@@ -1,0 +1,196 @@
+<!--
+   <div id="wrapper">
+   <header>
+   <nav>
+   <main>
+   <aside>
+   <footer>
+   
+   alt text for images
+   clean indentation
+   
+   -->
+<!DOCTYPE HTML>
+<html lang="en">
+   <head>
+      <title> Thank You For Smoking - About</title>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width,initial-scale=1" />
+      <meta name="description" content="Project for WebDev3 with Kyle Kuhlers" />
+      <link rel="icon" type="image/x-icon" href="assets/favicon_cig.ico">
+      <link href="https://fonts.googleapis.com/css?display=swap&family=Archivo:400,400italic,700,700italic,900,900italic%7CLora:700,700italic,400,400italic" rel="stylesheet" type="text/css" />
+      <link rel="stylesheet" href="assets/main.css" />
+   </head>
+   <body>
+      <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" display="none" width="0" height="0">
+      <symbol id="icon-web" viewBox="0 0 40 40">
+         <path d="M20,3C10.6,3,3,10.6,3,20s7.6,17,17,17s17-7.6,17-17S29.4,3,20,3z M34.8,18.9h-6.2c-0.1-2.2-0.3-4.2-0.8-6.1 c1.5-0.4,3-0.9,4.2-1.5c0.6,0.9,1.2,1.8,1.6,2.9C34.3,15.7,34.7,17.3,34.8,18.9z M25.7,26.7c-1.5-0.3-3.1-0.4-4.6-0.5v-5.1h5.4 c-0.1,1.8-0.3,3.5-0.6,5.1C25.8,26.3,25.8,26.5,25.7,26.7z M14.2,26.2c-0.3-1.6-0.6-3.3-0.6-5.1h5.4v5.1c-1.6,0-3.2,0.2-4.6,0.5 C14.2,26.5,14.2,26.3,14.2,26.2z M14.3,13.3c1.5,0.3,3.1,0.4,4.6,0.5v5.1h-5.4c0.1-1.8,0.3-3.5,0.6-5.1 C14.2,13.7,14.2,13.5,14.3,13.3z M21.1,5.4C21.4,5.6,21.7,5.7,22,6c0.8,0.7,1.6,1.7,2.2,3c0.4,0.7,0.7,1.5,0.9,2.3 c-1.3,0.2-2.7,0.4-4,0.4V5.4z M18,6c0.3-0.3,0.6-0.4,0.9-0.6v6.2c-1.4,0-2.8-0.2-4-0.4c0.3-0.8,0.6-1.6,0.9-2.3 C16.5,7.7,17.2,6.7,18,6z M18.9,28.4v6.2c-0.3-0.1-0.6-0.3-0.9-0.6c-0.8-0.7-1.6-1.7-2.2-3c-0.4-0.7-0.7-1.5-0.9-2.3 C16.2,28.6,17.5,28.4,18.9,28.4z M22,34c-0.3,0.3-0.6,0.4-0.9,0.6v-6.2c1.4,0,2.8,0.2,4,0.4c-0.3,0.8-0.6,1.6-0.9,2.3 C23.5,32.3,22.8,33.3,22,34z M21.1,18.9v-5.1c1.6,0,3.2-0.2,4.6-0.5c0,0.2,0.1,0.4,0.1,0.5c0.3,1.6,0.6,3.3,0.6,5.1H21.1z M30.5,9.5 c0,0,0.1,0.1,0.1,0.1c-1,0.4-2.2,0.8-3.4,1.1c-0.6-1.9-1.4-3.5-2.4-4.8c0.3,0.1,0.6,0.2,0.9,0.3C27.5,7.1,29.1,8.1,30.5,9.5z M14.2,6.3c0.3-0.1,0.6-0.2,0.9-0.3c-0.9,1.3-1.7,2.9-2.4,4.8c-1.2-0.3-2.3-0.7-3.4-1.1c0,0,0.1-0.1,0.1-0.1 C10.9,8.1,12.5,7.1,14.2,6.3z M7.9,11.4c1.3,0.6,2.7,1.1,4.2,1.5c-0.4,1.9-0.7,3.9-0.8,6.1H5.2c0.1-1.6,0.5-3.2,1.1-4.7 C6.8,13.2,7.3,12.3,7.9,11.4z M5.2,21.1h6.2c0.1,2.2,0.3,4.2,0.8,6.1c-1.5,0.4-3,0.9-4.2,1.5c-0.6-0.9-1.2-1.8-1.6-2.9 C5.7,24.3,5.3,22.7,5.2,21.1z M9.5,30.5c0,0-0.1-0.1-0.1-0.1c1-0.4,2.2-0.8,3.4-1.1c0.6,1.9,1.4,3.5,2.4,4.8 c-0.3-0.1-0.6-0.2-0.9-0.3C12.5,32.9,10.9,31.9,9.5,30.5z M25.8,33.7c-0.3,0.1-0.6,0.2-0.9,0.3c0.9-1.3,1.7-2.9,2.4-4.8 c1.2,0.3,2.3,0.7,3.4,1.1c0,0-0.1,0.1-0.1,0.1C29.1,31.9,27.5,32.9,25.8,33.7z M32.1,28.6c-1.3-0.6-2.7-1.1-4.2-1.5 c0.4-1.9,0.7-3.9,0.8-6.1h6.2c-0.1,1.6-0.5,3.2-1.1,4.7C33.2,26.8,32.7,27.7,32.1,28.6z"></path>
+      </symbol>
+      <symbol id="icon-play" viewBox="0 0 40 40">
+         <path d="M36.1,21.3c1.5-0.7,1.5-1.9,0-2.6L10.5,6.3C9,5.6,7.8,6.2,7.8,7.6l0,24.8c0,1.4,1.2,2,2.7,1.3L36.1,21.3z"></path>
+      </symbol>
+      <symbol id="icon-star" viewBox="0 0 40 40">
+         <path d="M37.7,14l-11.4-1.7L21.1,2c-0.3-0.6-0.7-0.9-1.1-0.9S19.2,1.4,18.9,2l-5.1,10.4L2.3,14c-0.8,0.1-1.3,0.5-1.3,1 c0,0.3,0.2,0.7,0.6,1.1l8.3,8.1L8,35.6c0,0.2,0,0.4,0,0.5c0,0.3,0.1,0.6,0.2,0.8c0.2,0.2,0.4,0.3,0.7,0.3c0.3,0,0.6-0.1,0.9-0.3 L20,31.5l10.2,5.4c0.3,0.2,0.6,0.3,0.9,0.3c0.3,0,0.5-0.1,0.7-0.3c0.2-0.2,0.2-0.5,0.2-0.8c0-0.2,0-0.3,0-0.5l-2-11.4l8.3-8.1 c0.4-0.4,0.6-0.8,0.6-1.1C38.9,14.5,38.5,14.2,37.7,14z"></path>
+      </symbol>
+      <symbol id="icon-home" viewBox="0 0 40 40">
+         <path d="M33.3,22.3v11.2c0,0.4-0.1,0.8-0.4,1.1c-0.3,0.3-0.6,0.4-1.1,0.4h-9v-9h-6v9h-9c-0.4,0-0.8-0.1-1.1-0.4 c-0.3-0.3-0.4-0.6-0.4-1.1V22.3c0,0,0,0,0-0.1s0-0.1,0-0.1L19.9,11l13.5,11.1C33.3,22.1,33.3,22.2,33.3,22.3L33.3,22.3z M38.5,20.6 l-1.5,1.7c-0.1,0.1-0.3,0.2-0.5,0.3h-0.1c-0.2,0-0.4-0.1-0.5-0.2L19.9,9L3.7,22.5c-0.2,0.1-0.4,0.2-0.6,0.2c-0.2,0-0.4-0.1-0.5-0.3 l-1.5-1.7C1,20.5,1,20.3,1,20.1s0.1-0.4,0.3-0.5l16.8-14C18.6,5.2,19.2,5,19.9,5s1.3,0.2,1.8,0.6l5.7,4.8V5.8c0-0.2,0.1-0.4,0.2-0.5 S27.9,5,28.1,5h4.5c0.2,0,0.4,0.1,0.5,0.2c0.1,0.1,0.2,0.3,0.2,0.5v9.5l5.1,4.3c0.2,0.1,0.2,0.3,0.3,0.5 C38.7,20.3,38.7,20.5,38.5,20.6L38.5,20.6z"></path>
+      </symbol>
+      <div id="wrapper">
+         <div id="main">
+            <div class="inner">
+               <header id="header">
+                  <div id="nav" class="style4 container columns">
+                     <div class="wrapper">
+                        <div class="inner">
+                           <div>
+                              <ul id="buttons02" class="style3 buttons">
+                                 <li>
+                                    <a href="about.html" class="button n01">About</a>
+                                 </li>
+                                 <li>
+                                    <a href="trailer.html" class="button n02">Trailer</a>
+                                 </li>
+                              </ul>
+                           </div>
+                           <div>
+                              <ul id="icons01" class="icons">
+                                 <li>
+                                    <a class="n01" href="index.html">
+                                       <svg>
+                                          <use xlink:href="#icon-home"></use>
+                                       </svg>
+                                       <span class="label">Home</span>
+                                    </a>
+                                 </li>
+                              </ul>
+                           </div>
+                           <div>
+                              <ul id="buttons04" class="style3 buttons">
+                                 <li>
+                                    <a href="cast.html" class="button n01">Cast</a>
+                                 </li>
+                                 <li>
+                                    <a href="reviews.html" class="button n02">Reviews</a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </header>
+               <section id="about-section">
+                  <div id="container08" class="style7 container columns full screen">
+                     <div class="wrapper">
+                        <div class="inner">
+                           <div>
+                              <p id="text12" class="style3">Themes</p>
+                              <p id="text13" class="style8"><span class="p">Crude Humor And Satire<br />Relationship Comedy<br />Politics And Human Rights</span></p>
+                           </div>
+                           <div>
+                              <p id="text03" class="style3">Studios</p>
+                              <ul id="links02" class="style1 links">
+                                 <li class="n01">
+                                    <a href="https://letterboxd.com/studio/fox-searchlight-pictures/">Fox Searchlight Pictures</a>
+                                 </li>
+                                 <li class="n02">
+                                    <a href="https://letterboxd.com/studio/major-studio-partners/">Major Studio Partners</a>
+                                 </li>
+                                 <li class="n03">
+                                    <a href="https://letterboxd.com/studio/contentfilm/">ContentFilm</a>
+                                 </li>
+                                 <li class="n04">
+                                    <a href="https://letterboxd.com/studio/room-9-entertainment/">Room 9 Entertainment</a>
+                                 </li>
+                                 <li class="n05">
+                                    <a href="https://letterboxd.com/studio/tyfs-productions-llc/">TYFS Productions LLC</a>
+                                 </li>
+                              </ul>
+                           </div>
+                           <div>
+                              <p id="text14" class="style3">Awards</p>
+                              <ul id="links01" class="style1 links">
+                                 <li class="n01">
+                                    <a href="https://m.imdb.com/event/ev0000392/2006/1?ref_=m_ttawd_ev_14">Sierra Award - Best Screenplay</a>
+                                 </li>
+                                 <li class="n02">
+                                    <a href="https://m.imdb.com/event/ev0000454/2006/1?ref_=m_ttawd_ev_15">Audience Award - Best Film</a>
+                                 </li>
+                                 <li class="n03">
+                                    <a href="https://m.imdb.com/event/ev0000349/2007/1?ref_=m_ttawd_ev_8">ISA - Best Screenplay</a>
+                                 </li>
+                                 <li class="n04">
+                                    <a href="https://m.imdb.com/event/ev0000546/2007/1?ref_=m_ttawd_ev_21">Prism Award - Wide Release Feature Film</a>
+                                 </li>
+                                 <li class="n05">
+                                    <a href="https://m.imdb.com/title/tt0427944/awards/?ref_=tt_awd">And More...</a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <hr id="divider05">
+                  <h1 id="text123">Screenshot Gallery</h1>
+                  <hr id="divider02">
+                  <div id="container04" class="container columns full screen">
+                     <div class="wrapper">
+                        <div class="inner">
+                           <div>
+                              <div id="gallery03" class="gallery">
+                                 <div class="inner">
+                                    <ul>
+                                       <li>
+                                          <span class="thumbnail"><span class="frame"><img  src="images/screen1.jpg" alt="A screenshot from the movie Thank You for Smoking" /></span></span>
+                                       </li>
+                                       <li>
+                                          <span class="thumbnail"><span class="frame"><img  src="images/screen2.jpg" alt="A screenshot from the movie Thank You for Smoking" /></span></span>
+                                       </li>
+                                       <li>
+                                          <span class="thumbnail"><span class="frame"><img  src="images/screen3.jpg" alt="A screenshot from the movie Thank You for Smoking" /></span></span>
+                                       </li>
+                                       <li>
+                                          <span class="thumbnail"><span class="frame"><img  src="images/screen4.jpg" alt="A screenshot from the movie Thank You for Smoking" /></span></span>
+                                       </li>
+                                       <li>
+                                          <span class="thumbnail"><span class="frame"><img  src="images/screen5.jpg" alt="A screenshot from the movie Thank You for Smoking" /></span></span>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                           <div>
+                              <div id="gallery02" class="gallery">
+                                 <div class="inner">
+                                    <ul>
+                                       <li>
+                                          <span class="thumbnail"><span class="frame"><img src="images/screen6.jpg" alt="A screenshot from the movie Thank You for Smoking" /></span></span>
+                                       </li>
+                                       <li>
+                                          <span class="thumbnail"><span class="frame"><img src="images/screen7.jpg" alt="A screenshot from the movie Thank You for Smoking" /></span></span>
+                                       </li>
+                                       <li>
+                                          <span class="thumbnail"><span class="frame"><img src="images/screen8.jpg" alt="A screenshot from the movie Thank You for Smoking" /></span></span>
+                                       </li>
+                                       <li>
+                                          <span class="thumbnail"><span class="frame"><img src="images/screen9.jpg" alt="A screenshot from the movie Thank You for Smoking" /></span></span>
+                                       </li>
+                                       <li>
+                                          <span class="thumbnail"><span class="frame"><img src="images/screen10.jpg" alt="A screenshot from the movie Thank You for Smoking" /></span></span>
+                                       </li>
+                                       <li>
+                                          <span class="thumbnail"><span class="frame"><img src="images/screen11.jpg" alt="A screenshot from the movie Thank You for Smoking" /></span></span>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+            </div>
+         </div>
+      </div>
+      </section>
+      <script src="assets/main.js"></script>
+   </body>
+</html>
