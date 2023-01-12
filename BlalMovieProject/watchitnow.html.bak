@@ -1,0 +1,84 @@
+<!-- Blal Watch It Now Page for The Dark Knight -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>The Dark Knight</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="movie.css">
+</head>
+<body>
+	<div class = "wrapper">
+	<header> 
+		<h1>The Dark Knight</h1> 
+	</header> 
+	<nav>  
+		<a href="index.html">About</a> &nbsp
+		<a href="cast.html">Cast</a> &nbsp
+		<a href="watchitnow">Watch It Now</a> &nbsp
+	</nav>
+	<main>
+		<h2>BUY / RENT - DIGITAL</h2> <FONT COLOR="221811">
+		<style>
+		ul { list-style-type: none; }
+		li { display: inline-block;
+			 width: 225px;
+			 padding-bottom: 10px;
+			 margin: 10px;
+			 background-color: #D2B48C;
+			 text-align: center;
+			 font-style: italic;
+			 font-family: Georgia, serif;
+		}
+		</style>
+		<ul>
+			<a href="https://www.hulu.com/movie/the-dark-knight-2ce6365a-46e7-43d9-8d77-5b84753a663c" target="blank">
+			<li><img src="hululogo.jpg" alt="HL" width="200" height="110">SUBSCRIPTION</li>
+			</a>
+			<a href="https://tv.apple.com/us/movie/the-dark-knight/umc.cmc.1uf4c3neuc9yxhnjv7t4rd5wa" target="blank">
+			<li><img src="applelogo.png" alt="AL" width="200" height="130"></li>
+			</a>
+			<a href="https://play.google.com/store/movies/details/The_Dark_Knight?id=TQfcgaNdBCA&hl=en_US&gl=US" target="blank">
+			<li><img src="googlelogo.png" alt="GL" width="200" height="130"></li>
+			</a>
+			<a href="https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18b7edbe-a800-19a8-45b5-c1804b71a7a5?autoplay=0&ref_=atv_cf_strg_wb" target="blank">
+			<li><img src="primevideologo.png" alt="PVL" width="200" height="130"></li>
+			</a>
+			<a href="https://www.vudu.com/content/movies/details/The-Dark-Knight/141389" target="blank">
+			<li><img src="vudulogo.jpg" alt="VL" width="200" height="130"></li>
+			</a>
+			<a href="https://moviesanywhere.com/movie/the-dark-knight" target="blank">
+			<li><img src="moviesanywherelogo.png" alt="MAL" width="200" height="130"></li>
+			</a>
+			<a href="https://www.microsoft.com/en-us/p/the-dark-knight/8d6kgwzl5prk?activetab=pivot%3aoverviewtab" target="blank">
+			<li><img src="microsoftlogo.jpeg" alt="ML" width="200" height="130"></li>
+			</a>
+			<a href="https://www.youtube.com/watch?v=B9wbHZM-L8g" target="blank">
+			<li><img src="youtubelogo.jpg" alt="YL" width="200" height="130"></li>
+			</a>
+		</ul>
+
+
+		<h2>BUY - ON DISC</h2>
+		<ul>	
+			<a href="https://www.amazon.com/Dark-Knight-Blu-ray-Christian-Bale/dp/B001CEE1WG/ref=sr_1_4?crid=1QN7IIU2R6CFT&keywords=the+dark+knight+blu+ray&qid=1673459276&s=movies-tv&sprefix=the+dark+knight+%2Cmovies-tv%2C92&sr=1-4" target="blank">
+			<li><img src="amazonlogo.png" alt="AML" width="200" height="130"></li>
+			</a>
+			<a href="https://www.walmart.com/ip/The-Dark-Knight-Blu-ray/10665466" target="blank">
+			<li><img src="walmartlogo.jpg" alt="WL" width="200" height="130"></li>
+			</a>
+			<a href="https://www.bestbuy.com/site/the-dark-knight-ws-2-discs-blu-ray-2008/9124743.p?skuId=9124743" target="blank">
+			<li><img src="bestbuylogo.jpg" alt="BBL" width="200" height="130"></li>
+			</a>
+			<a href="https://www.target.com/p/the-dark-knight-dvd-2008/-/A-86957626#lnk=sametab" target="blank">
+			<li><img src="targetlogo.jpg" alt="TL" width="200" height="130"></li>
+			</a>
+		</ul>
+	</div>
+	</main>
+	<footer><i>Copyright &copy; 2022 DC COMICS, INC. <br> 
+		<a href="mailto:"muhammad@blal.com">muhammad@blal.com</a>
+	</footer>
+	</div class = "wrapper"
+</body>
+</html>
+
