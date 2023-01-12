@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Kung Fu Panda </title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="movie.css">
+</head>
+<body>
+	<div id="wrapper">
+	<header> 
+		
+		<h1><center>Kung Fu Panda</center></h1> 
+	 
+	</header>
+	<nav> 
+		<center><a href="index.html"> Home </a>&nbsp;
+		<a href="Cast.html"> Cast </a>&nbsp;
+		<a href="Films.html"> Films </a>&nbsp; </center>
+	</nav> 
+	<main>
+		<img src="pandaimage.jpg" alt "pandaimage" align="right" width="375" height="300">
+			<h2> Cast and Characters </h2>
+			<br>
+				<ul>
+					<b> Po played by Jack Black <img src="jack.jpg" alt "jackimage" align="Left" width="100" height="100"><img src="PandaPo.jpg" alt "Poimage" align="Left" width="100" height="100"><br><br><br><br><br><br>
+			
+					<b> Monkey Played by Jackie Chan <img src="jackie.jpg" alt "jackieimage" align="Left" width="100" height="100"><img src="Monkey.jpg" alt "monkeyimage" align="Left" width="100" height="100"><br><br><br><br><br><br><img src="allten.jpg" alt "alltenimage" align="right" width="375" height="300">
+					 
+					<b> Viper Played by Lucy Liu <img src="Lucy.jpg" alt "Lucyimage" align="Left" width="100" height="100"><img src="Viper.jpg" alt "Viperimage" align="Left" width="100" height="100"><br><br><br><br><br><br>
+					 
+					<b> Mantis Played by Seth Rogen <img src="Seth.jpg" alt "Sethimage" align="Left" width="100" height="100"><img src="Mantis.jpg" alt "Mantisimage" align="Left" width="100" height="100"><br><br><br><br><br><br>
+					 
+					<b> Tigress Played by Angelina Joile <img src="Angelina.jpg" alt "Angelinaimage" align="Left" width="100" height="100"><img src="Tigress.jpg" alt "Tigressimage" align="Left" width="100" height="100"><br><br><br><br><br><br><img src="seven.jpg" alt "sevenimage" align="right" width="320" height="300">
+						
+					<b> Crane Played by David Cross <img src="David.jpg" alt "Davidimage" align="Left" width="100" height="100"><img src="Crane.jpg" alt "Craneimage" align="Left" width="100" height="100"><br><br><br><br><br><br>
+						
+					<b> Master Shifu Played by Dustin Hoffman <img src="Dustin.jpg" alt "Dustinimage" align="Left" width="100" height="100"><img src="Shifu.jpg" alt "Shifuimage" align="Left" width="100" height="100"> <br><br><br><br><br><br>
+					 
+					<b> Master Oogway Played by Randall Duk <img src="Randall.jpg" alt "Randallimage" align="Left" width="100" height="100"><img src="Oogway.jpg" alt "Oogwayimage" align="Left" width="100" height="100"><br><br><br><br><br><br>
+					
+					<b> Tai Lung Played by Ian McShane <img src="Ian.jpg" alt "Ianimage" align="Left" width="100" height="100"><img src="Tai-Lung.jpg" alt "TaiLungimage" align="Left" width="100" height="100"><br><br><br><br><br><br>
+						
+					<b> Mr. Ping Played by James Hong <img src="James.jpg" alt "Jamesimage" align="left" width="100" height="100"><img src="Ping.jpg" alt "MrPingimage" align="Left" width="100" height="100"><br><br><br><br><br><br>
+				</ul>
+		
+					
+	</main>
+	<aside>
+	
+	</aside>
+	<br><br><br><br><br><br>
+	<footer> 
+		&copy; Copyright 2008 Kung Fu Panda
+	 <a href="Panda Man"></a>
+	</div>
+</body>
+</html>
