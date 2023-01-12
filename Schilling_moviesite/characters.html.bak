@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<title>Free Guy</title>
+		<meta charset="utf-8">
+		<link href="Schilling_MovieSite.css" rel="stylesheet">
+		<link rel="icon" href="freeguyicon.jpg">
+	</head>
+<div class="all">
+<div id="wrapper">
+<header>
+		<h1>Free Guy Informational Site</h1>
+		<nav>
+			<a href="index.html">Home</a> &nbsp; 
+			<a href="characters.html">Characters</a> &nbsp;
+			<a href="story.html">Story</a> &nbsp; 
+			<a href="Promoart.html">Promotional Art</a> &nbsp; 
+		</nav>
+</header>
+	<body>
+	<h3>Guy - Played By: Ryan Reynolds</h3>
+		<img src="blue_shirt_guy.jpg" alt="Blue Shirt Guy">
+		<aside><p class="character">The Main Character of Free Guy. An AI who gained sentience due to the code developed by Keys and Millie. Blue Shirt Guy was given
+		his name after gaining internet fame due to his interactions in Free City, with his original NPC name simply being "Guy"</p></aside>
+		<h3>Buddy - Played By: Lil Rel Howery</h3>
+		<img src="Buddyfreeguy.jfif" alt="Buddy">
+		<aside><p class="character">Blue Shirt Guy's best friend. Buddy is a police officer who spends most of his time with Blue Shirt Guy in the bank where they work. Buddy was present
+		when Blue Shirt Guy realized his sentience. Buddy acts as a comedic relief character throughout most of the movie, but also a supportive friend for
+		Blue Shirt Guy.</p></aside>
+	<h3>Walter "Keys" McKey - Played By: Joe Keery</h3>
+		<img src="keys_free_guy.jpg" alt="Keys">
+		<aside><p class="character">One of the developers of the code that gave Blue Shirt Guy sentience. After a failed lawsuit against Antwan, Keys decided to work for him.
+		He works as one of the main developers of Free City during the movie.</p></aside>
+	<h3>Millie/Molotov Girl - Played By: Jodie Comer</h3>
+		<img class="push" src="millie_free_guy.jpg" alt="Millie" height="400">
+		<img class="push" src="molotovgirl_free_guy.jpg" alt="Molotov Girl">
+		<aside><p class="character">The second developer of the code that gave Blue Shirt Guy sentience. After a failed lawsuit against Antwan, Millie went into hiding to continue
+		searching for evidence against him. She plays Free City under the username MolitovGirl, searching the game for the evidence she needs.</p></aside>
+	<h3>Antwan - Played By: Taika Waititi</h3>
+		<img src="Antwan_free_guy.jpg" alt="Antwan">
+		<aside><p class="character">The founder and CEO of Soonami Studios, developers of Free City. After stealing the code developed by Millie and Keys, Antwan uses it in
+		Free City. Antwan is obsessed with profit and will do anything if it means making more money. </p></aside>
+</body>
+<footer>
+All material owned by Walt Disney Company <br>
+All rights reserved <br>
+<div class="smalltext">
+<a href="tony.html">Secret</a>
+</div>
+</div>
+</div>
+</footer>
+
+	

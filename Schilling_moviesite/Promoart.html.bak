@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<title>Free Guy</title>
+		<meta charset="utf-8">
+		<link href="Schilling_MovieSite.css" rel="stylesheet">
+		<link rel="icon" href="freeguyicon.jpg">
+		<style>
+		nav { padding-bottom: 20px; } 
+		aside {  } 
+		</style>
+	</head>
+<div class="all">
+<div id="wrapper">
+<header>
+		<h1>Free Guy Informational Site</h1>
+		<nav>
+		<a href="index.html">Home</a> &nbsp; 
+		<a href="characters.html">Characters</a> &nbsp;
+		<a href="story.html">Story</a> &nbsp; 
+		<a href="Promoart.html">Promotional Art</a> &nbsp; 
+		</nav>
+</header>
+<body>
+	<img src="freeguyimage2.jpeg" alt="image2">
+	<img src="freeguyimage3.jpg" alt="image3">
+<footer>
+All material owned by Walt Disney Company <br>
+All rights reserved <br>
+<div class="smalltext">
+<a href="tony.html">Secret</a>
+</footer>
+</div>
+</div>
+</div>
+</body>

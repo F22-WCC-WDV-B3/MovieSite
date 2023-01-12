@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Tony</title>
+		<meta charset="utf-8">
+		<link href="Schilling_MovieSite.css" rel="stylesheet">
+		<style>
+		h1 a { text-decoration: none; } 
+		h1 a:visited { color: #221FDE; } 
+		</style>
+	</head>
+<body class="tony">
+<header>
+<h1><a href="secret1.html">Tony</a> Is Best At Multiversus</h1>
+<nav>
+		<a href="index.html">Home</a> &nbsp; 
+		<a href="characters.html">Characters</a> &nbsp;
+		<a href="story.html">Story</a> &nbsp; 
+		<a href="Promoart.html">Promotional Art</a> &nbsp; 
+		<a href="troll.html">Secret Page (DO NOT CLICK)</a>
+		</nav><br>
+		<button>Play</button>
+
+<script>
+    document.querySelector('button').addEventListener('click', () => {
+        document.querySelector('video').play();
+    });
+</script>
+		<video>
+		<source src="notarickroll.mp4" type="video/mp4">
+		Your browser is lame, and does not allow the video tag to display
+		</video>
+</body>
