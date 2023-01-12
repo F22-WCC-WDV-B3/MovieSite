@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>The Shining</title>
+		<meta charset="utf-8">
+		<link href="The_Shining.css" rel="stylesheet">
+		<link rel="icon" href="theShining.ico">
+	</head>
+		
+	<body>
+	<header>
+		<h1><center>The Shining</h1></center>
+	</header>
+		
+	<nav class="navbar">
+		<a href="index.html">Home</a>&nbsp &nbsp
+		<a href="characters.html">Characters</a>&nbsp &nbsp
+		<a href="story.html">Story</a>&nbsp &nbsp
+		<a href="art.html">art</a>&nbsp &nbsp
+	</nav>
+		
+	<div id="wrapper">
+	<div class="lefttext">
+		<div class="lefttext">
+		<h1>What This Website is</h1>
+		<h4>This website is about the 80s classic The Shining<br><br>
+		You'll get to see all the characters alongside a sum up of the story<br><br>
+		Stay till the end and you'll see some art for the movie</h4>
+		</div>
+	</div>
+	</div>
+	
+	
+	<aside>
+		<h1>Important dates about this movie</h1>
+		<h4>The movie was released in May 23, 1980.<br><br>
+		In 1977, a Warner Bros. executive, John Calley, sent Kubrick the proofs of what would become the novel.<br><br>
+		>Production began in late May 1978.<h4>
+	</aside>
+	
+	</body>
+	
+	
+	<br>
+	<footer>
+	<h4>&copy; Ryley Thompson</h4>
+	<center><img src="weirddude.jpg" alt="weirddude"></center>
+	</footer>
+
+</html>

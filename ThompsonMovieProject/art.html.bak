@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+	<head>
+		<title>The Shining</title>
+		<meta charset="utf-8">
+		<link href="The_Shining.css" rel="stylesheet">
+		<link rel="icon" href="theShining.ico">
+		<script>
+			window.onscroll = function() {scrollFunction()};
+
+			function scrollFunction() {
+			if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+			document.getElementById("navbar").style.top = "0";
+			} else {
+			document.getElementById("navbar").style.top = "-50px";
+		  }
+		}
+		</script>
+	</head>
+	
+	
+	<body>
+	<div id="wrapper"
+		<header>
+			<h1><center>The Shining</h1></center>
+		</header>
+		<div id="navbar">
+		<nav>
+			<a href="index.html">Home</a>&nbsp 
+			<a href="characters.html">Characters</a>&nbsp
+			<a href="story.html">Story</a>&nbsp
+			<a href="art.html">art</a>&nbsp 
+			<a href="testscript.html">script</a>&nbsp &nbsp
+			
+		</nav>
+		</div>
+		<h1><center>Art Of The Shining Movie</h1></center>
+		<center><img src="shy_shining.jpg" alt="art">
+		<img src="twins.jpg" alt="twins">
+		<img src="boy.jfif" alt="boy">
+		<img src="jack.jpg" alt="jack">
+		<img src="logo.jfif" alt="logo">
+		<img src="shining.webp" alt="shingin"></center>
+	</div>	
+	</body>
+	
+	
+	<footer>
+	
+	
+	</footer>
+
+
+
+
+
+
+
+
+
+</html>

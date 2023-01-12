@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+	<head>
+		<title>The Shining</title>
+		<meta charset="utf-8">
+		<link href="The_Shining.css" rel="stylesheet">
+		<link rel="icon" href="theShining.ico">
+		<script>
+			window.onscroll = function() {scrollFunction()};
+
+			function scrollFunction() {
+			if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+			document.getElementById("navbar").style.top = "0";
+			} else {
+			document.getElementById("navbar").style.top = "-50px";
+		  }
+		}
+		</script>
+	</head>
+	
+	
+	<body>
+		<header>
+			<h1><center>The Shining</h1></center>
+		</header>
+		<div id="navbar">
+			<nav>
+			
+				<a href="index.html">Home</a>&nbsp &nbsp
+				<a href="characters.html">Characters</a>&nbsp &nbsp
+				<a href="story.html">Story</a>&nbsp &nbsp
+				<a href="art.html">art</a>&nbsp &nbsp
+			</nav>
+		</div>
+		
+		
+		
+		<h1>Characters</h1>
+		<div id="wrapper">
+		<div class="lefttext">
+		<h3>Jack Torrance-Played By: Jack Nicholson</h3>
+		<img src="jack_shining.jpg" alt="Jack Torrance">
+		
+		<h3>Wendy Torrance-Played By: Shelley Duvall</h3>
+		<img src="wendy_shining.jfif" alt="Wendy Torrance">
+		<h4>Wendy is the wife of jack and the mother of Danny. She takes care of Danny when he was at his lows</h4>
+		<h3>Danny Torrance-Played By: Danny Lloyd</h3>
+		<img src="danny_shining.jpg" alt="Danny Torrance">
+		<h4>Danny is the son of Wendy and Jack and he has some probloms in the movie.</h4>
+		<h3>Dick Hallorann-Played By: Scatman Crothers</h3>
+		<img src="dick_hallorann.jpg" alt="Dick Hallorann">
+		<h4>Dick Hallorann is the head chef at the Overlook Hotel.</h4>
+		<h3>Stuart Ullman-Played By: Barry Nelson</h3>
+		<img src="Barry_shining.jpg" alt="Stuart Ullman">
+		<h4>Stuart Ullman was the general manager at the Overlook Hotel.</h4>
+		<h3>Charles Grady-Played By: Philip Stone</h3>
+		<img src="Charles_shining.jpg" alt="Charles Grady">
+		<h4>Charles Grady was a caretaker of the Overlook Hotel who went insane, murdered his family, and committed suicide.</h4>
+		<h3>Lloyd-Played By: Turkel</h3>
+		<img src="lloyd_shining.jfif" alt="Lloyd">
+		<h4>Lloyd was once a bartender who worked in the lounge at the Overlook Hotel.</h4>
+		<h3>Doc-Played By: Jackson</h3>
+		<img src="doc_shining.jpg" alt="doc">
+		<h4> the doc helped out Danny in the movie when he was not feeling good</h4>
+		<h3>Durkin-Played By: Tony Burton</h3>
+		<img src="Durkin_shining.jpg" alt="durkin">
+		<h4> Durkin worked at the gas station</h4>
+		<h3>Watson-Played By: Barry Dennen</h3>
+		<img src="Watson.jfif" alt="Watson">
+		<h4> Watson is the caretaker of the Overlook during the season. </h4>
+		<h3>Injured Guest-Played By: Norman Gay</h3>
+		<img src="injured-guest_shining.jpg" alt="Injured Guest">
+		<h4> The injured guest is a fictional ghost </h4>
+		<h3>Grady Daughter-Played By: Lisa Burns and Louise Burns</h3>
+		<img src="twins_shining.jpg" alt="Lisa Burns and Louise Burns">
+		<h4>the twins are two ghosts, still in the Overlook Hotel after they were murdered by their father </h4
+		</div>
+		</div>
+	
+	<aside>
+		<h4>Jack is a writer who has been hired as the winter caretaker at the isolated Overlook Hotel in snowy Colorado. he is a husband and a dad of 1</h4>
+	</aside>
+	</body>
+	
+	
+	<footer>
+	
+	
+	</footer>
+
+
+
+
+
+
+
+
+
+</html>
