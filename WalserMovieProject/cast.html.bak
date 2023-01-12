@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>LOTR - Info site</title>
+		<link rel="icon" href="oneringiconbutgood.png">
+		<meta charset="utf-8">
+		<link href="Walser_Movie.css" rel="stylesheet">
+
+	</head>
+
+	<body>
+		<div id="wrapper">
+		<main>
+		<header>
+			<h1>Lord of the Rings</h1>
+		</header>
+		<nav>
+			<div class="sidenav-right">
+			<div class="container"><a href="Walser_MovieProject.html"><img src="oneringlink.png" alt="Link to Home Page" style="width:80%";><div class="centered"><h6>Home</h6></div></div></a> 
+			<div class="container"><a href="scenes.html"><img src="oneringlink.png" alt="Link to Scenes Page" style="width:80%";><div class="centered"><h6>Scenes</h6></div></div></a> 
+			<div class="container"><a href="contact.html"><img src="oneringlink.png" alt="Link to Contact Page" style="width:80%";><div class="centered"><h6>Contact US!</h6></div></div></a> 
+				<div class="container"><a href="cast.html"><img src="oneringlink.png" alt="Link to Cast Page" style="width:80%";><div class="centered"><h6>Cast</h6></div></div></a>
+		</div></nav>
+		<div class="sidebar">
+			<img src="Lotr_Picture1.jpg" alt="A picture of Rivendell from Lord of the Rings">
+		</div>
+		<div class="main">
+			<ul><center>
+				<li><img src="elijah_wood.webp" alt="Elijah Wood" width="225">Elijah Wood as Frodo Baggins</li>
+				<li><img src="sean_astin.webp" alt="Sean Astin" width="225" >Sean Astin as Samwise Gamgee</li>
+				<li><img src="dominic_monaghan.webp" alt="Dominic Monaghan" width="225" >Dominic Monaghan as Merry Brandybuck</li>
+				<li><img src="billy_boyd.webp" alt="Billy Boyd" width="225" >Billy Boyd as Pippin Took</li>
+				<li><img src="viggo_mortensen.webp" alt="Viggo Mortensen" width="225" >Viggo Mortensen as Aragorn</li>
+				<li><img src="ian_mckellen.webp" alt="Ian Mckellen" width="225" >Ian Mckellen as Gandalf</li>
+				<li><img src="orlando_bloom_dos_premiere.webp" alt="Orlando Bloom" width="225" >Orlando Bloom as Legolas</li>
+				<li><img src="john_rhys_davies.webp" alt="John Rhys-Davies" width="225" >John Rhys-Davies as Gimli</li>
+				<li><img src="sean_bean.webp" alt="Sean Bean" width="225" >Sean Bean as Boromir</li>
+				<li><img src="liv_tyler.webp" alt="Liv Tyler" width="225">Liv Tyler as Arwen</li>
+				<li><img src="hugo_weaving.webp" alt="Hugo Weaving" width="225" >Hugo Weaving as Elrond</li>
+				<li><img src="sir_christopher_lee.webp" alt="Christopher Lee" width="225">Christopher Lee as Saruman</li>
+				<li><img src="cate_blanchett_ny_premiere.png.webp" alt="Cate Blanchett" width="225">Cate Blanchett as Galadriel</li>
+				<li><img src="alsogollum.jpg" alt="Andy Serkis" width="225" >Andy Serkis as Gollum</li>
+				<li><img src="bernard_hill_uk_premiere.webp" alt="Bernard Hill" width="225">Bernard Hill as Theoden</li>
+				<li><img src="karl_urban.webp" alt="Karl Urban" width="225" >Karl Urban as Eomer</li>
+				<li><img src="miranda_otto.webp" alt="Miranda Otto" width="225" >Miranda Otto as Eowyn</li>
+				<li><img src="johnnoble.webp" alt="John Noble" width="225" >John Noble as Denethor</li>
+				<li><img src="david.webp" alt="David Wenham" width="225" >David Wenham as Faramir</li>
+				<li><img src="ian_holm.jpg.webp" alt="Ian Holm" width="225">Ian Holm as Bilbo Baggins</li>
+				
+				
+			</center></ul>
+		</div>
+		</div>
+		</main>
+	</body>
+
+	<footer>
+
+	</footer>
+
+</html>
