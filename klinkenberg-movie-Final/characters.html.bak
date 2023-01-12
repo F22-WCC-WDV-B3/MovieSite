@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link href="klinkenberg-movie-web.css" rel="stylesheet">
+<title>Star Wars A New Hope</title>
+
+	
+	
+</head>
+<body>
+	<div id="wrapper">
+	
+	<header><h1 name="top" id="top">Star Wars A New Hope</h1></header>
+	<nav>
+		<a href="index.html"><div class="top">Home</div></a>&nbsp; 
+		<a href="cast.html"> Cast</a>&nbsp; 
+		<a href="characters.html">Characters</a>&nbsp; 
+		<a href="sumary.html">Sumary</a>&nbsp;
+		<a href="bts.html">Behind The Scenes</a>&nbsp; 
+		<a href="culture/culture.html">Cultural Effect</a>&nbsp; 
+	</nav>
+	<main>
+	<div class="lbozo">
+
+	<h2 class="subtext">Main Characters</h2>
+	
+	
+	
+	<h3>Luke Skywalker</h3>
+		
+		
+		
+		
+		
+		<p>At the start of the movie, Luke lives on a water farn on the planet Tatooine with his aunt and uncle.</p>
+		<p>Luke was not told the truth about his parents untill an old man named Ben Konobi (who trained his father tp be a jedi) told him a partial truth. That his father Aniken Skywalker died at the end of the clone wars.</p>
+		
+		<div class="hope"> <img src="luke_light.jpg" alt="Luke Skywalker" width="135.5" height="135.333333333"> </div>
+		
+		<p>Luke reseaves a message for obi-wan witch puts him on the path to learn the ways of the jedie and stop the Empire that roles over the galixy.</p>
+	<h3>Han Solo</h3>
+		<p>Han Solo is a smugler with his partner in crime Chewbacka, who owes a large sum of credits (money) to a "mob boss" named Jaba the Hut. This makes him accept a mission from an old man, a yong boy, and two droids to deliver them to a planet called alderaan.</p>
+		
+		<div class="hope"> <img src="Hansolo.jpg" alt="Han Solo" width="118.75" height="150"> </div>
+		
+		<p> This job leads to a large amount of action and makes him a key player in the rest of the trilligy moving forward</p>
+	<h3>Darth Vader</h3>
+		<p>Darth Vader is a sith and the aprentis of Emperor palpatien, the leader of the empire. Darth Vader is known across the galaxy for being rothless and very powerfull.</p>
+		
+		<div class="hope"> <img src="vader.jpg" alt="Darth Vader" width="135" height="135"> </div>
+		
+		<p>Darth Vader was a previouse aprentance of Ben Kenobi in the clone wars but latter betraid him and the rest of the jedi order, playing a clushal role in making the jedi order fall.</p>
+		
+		<p></p>
+	<h3>Ben Kenobi</h3>
+		<p>Obi-Wan Kenobi is an old wise man and the touter of Luke Skywalker.</p>
+		
+		
+		<div class="hope"> <img src="ben.jpg" alt="Ben Kenobi" width="122.2" height="163"> </div>
+		
+		<p>Back in his prime, formaly know as Obi-Wan Kenobi, was a prominit Jedi Master During the clone wars.</p>
+	<h3>Princess Leia</h3>
+	
+	<h3>Chewbacca</h3>
+
+	
+	</div>
+	</main>
+	<aside>
+
+	</aside>
+
+
+	<footer>
+	
+	<!-- Back To Top p2-->
+	<p class="backtotop" style="nav a:link { color: #6d93d1 ; 
+}
+
+nav a:visited { color: #c4c45e ; 
+}
+
+nav a:hover { color: #dce7f7 ; 
+"><a href="#top"> Back to top </a></p>
+	<p class="coppy">Copywrite &#169; 2023 Connor Klinkenberg </p>
+	</footer>
+	</div>
+	</body>
+	
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link href="klinkenberg-movie-web.css" rel="stylesheet">
+<title>Star Wars A New Hope</title>
+
+	
+</head>
+<body>
+	<div id="wrapper">
+	<header><h1>Star Wars A New Hope</h1></header>
+	<nav>
+		<a href="index.html"><div class="top">Home</div></a>&nbsp; 
+		<a href="cast.html"> Cast</a>&nbsp; 
+		<a href="characters.html">Characters</a>&nbsp; 
+		<a href="sumary.html">Sumary</a>&nbsp;
+		<a href="bts.html">Behind The Scenes</a>&nbsp; 
+		<a href="culture/culture.html">Cultural Effect</a>&nbsp; 
+	</nav>
+	<main>
+	<div class="lbozo">
+	<h2 class="subtext">Cast</h2>
+	<ul class="bull">
+		<li>Mark Hamill- As Luke Skywalker</li>
+		<li>Harrison Ford- As Han Solo </li>
+		<li>Carrie Fisher- As Princess Leia</li>
+		<li>Alec Guinnes- As Obi Wan Kenobi</li>
+		<li>James Earl Jones- Voiced Darth Vader</li>
+		<li>Peter Mayhew- As Chewbacca</li>
+		<li>Anthony Daniels- As C3PO</li>
+	</ul>
+	</div>
+	</main>
+	<aside>
+
+	</aside>
+
+
+	<footer>
+	
+	
+	<p class="coppy">Copywrite &#169; 2022 Connor Klinkenberg </p>
+	</footer>
+	</div>
+	</body>
+
+</html>
